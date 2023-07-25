@@ -1,0 +1,15 @@
+D:\GB\lesson5\task38\obj\Debug\net7.0\task38.csproj.AssemblyReference.cache
+D:\GB\lesson5\task38\obj\Debug\net7.0\task38.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\lesson5\task38\obj\Debug\net7.0\task38.AssemblyInfoInputs.cache
+D:\GB\lesson5\task38\obj\Debug\net7.0\task38.AssemblyInfo.cs
+D:\GB\lesson5\task38\obj\Debug\net7.0\task38.csproj.CoreCompileInputs.cache
+D:\GB\lesson5\task38\bin\Debug\net7.0\task38.exe
+D:\GB\lesson5\task38\bin\Debug\net7.0\task38.deps.json
+D:\GB\lesson5\task38\bin\Debug\net7.0\task38.runtimeconfig.json
+D:\GB\lesson5\task38\bin\Debug\net7.0\task38.dll
+D:\GB\lesson5\task38\bin\Debug\net7.0\task38.pdb
+D:\GB\lesson5\task38\obj\Debug\net7.0\task38.dll
+D:\GB\lesson5\task38\obj\Debug\net7.0\refint\task38.dll
+D:\GB\lesson5\task38\obj\Debug\net7.0\task38.pdb
+D:\GB\lesson5\task38\obj\Debug\net7.0\task38.genruntimeconfig.cache
+D:\GB\lesson5\task38\obj\Debug\net7.0\ref\task38.dll
